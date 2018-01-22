@@ -24,7 +24,7 @@ The goals / steps of this project are the following:
 [image3]: ./writeup_images/faked_image.png "Augmented Image"
 [image4]: ./writeup_images/preprossing_pipeline.png "Preprossing Pipeline"
 [image5]: ./writeup_images/data_augmentation.png "Data Augmentation"
-[image6]: ./new_images/1.jpg "Traffic Sign 1"
+[image6]: ./new_images/new_images.jpg "New Traffic Sign Images"
 [image7]: ./new_images/2.jpg "Traffic Sign 2"
 [image8]: ./new_images/3.jpg "Traffic Sign 3"
 [image9]: ./new_images/4.jpg "Traffic Sign 4"
@@ -184,8 +184,7 @@ The dropout layers as mentioned above, can avoid the model overfiting by dumping
 
 Here are five German traffic signs that I found on the web:
 
-![alt text][image6] ![alt text][image7] ![alt text][image8] 
-![alt text][image9] ![alt text][image10]
+![alt text][image6]
 
 The first image might be difficult to classify because the color is a little bit faded and also the brackets around the sign might confuse the model.
 The second image might have problem due to its distorted shape.
