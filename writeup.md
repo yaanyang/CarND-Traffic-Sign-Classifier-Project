@@ -24,7 +24,7 @@ The goals / steps of this project are the following:
 [image3]: ./writeup_images/faked_image.png "Augmented Image"
 [image4]: ./writeup_images/preprossing_pipeline.png "Preprossing Pipeline"
 [image5]: ./writeup_images/data_augmentation.png "Data Augmentation"
-[image6]: ./new_images/new_images.jpg "New Traffic Sign Images"
+[image6]: ./new_images/new_images.png "New Traffic Sign Images"
 [image7]: ./new_images/2.jpg "Traffic Sign 2"
 [image8]: ./new_images/3.jpg "Traffic Sign 3"
 [image9]: ./new_images/4.jpg "Traffic Sign 4"
