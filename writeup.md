@@ -30,7 +30,7 @@ The goals / steps of this project are the following:
 [image9]: ./new_images/4.jpg "Traffic Sign 4"
 [image10]: ./new_images/5.jpg "Traffic Sign 5"
 [image11]: ./writeup_images/new_image_bar.png "Visualization Top 5 Softmax"
-[image12]: ./writeup_images/new_image_bar.png "Feature Maps"
+[image12]: ./writeup_images/feature_map.png "Feature Maps"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
